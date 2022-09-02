@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Etg1\\source\\repos\\Batch1-DET-2022\\Batch1-DET-2022\\Batch1-DET-2022.csproj",
+      "projectUniqueName": "C:\\Users\\Etg1\\source\\repos\\Batch1-DET-2022\\Batch1-DET-2022.csproj",
       "projectName": "Batch1-DET-2022",
-      "projectPath": "C:\\Users\\Etg1\\source\\repos\\Batch1-DET-2022\\Batch1-DET-2022\\Batch1-DET-2022.csproj",
+      "projectPath": "C:\\Users\\Etg1\\source\\repos\\Batch1-DET-2022\\Batch1-DET-2022.csproj",
       "packagesPath": "C:\\Users\\Etg1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Etg1\\source\\repos\\Batch1-DET-2022\\Batch1-DET-2022\\obj\\",
+      "outputPath": "C:\\Users\\Etg1\\source\\repos\\Batch1-DET-2022\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Etg1\\AppData\\Roaming\\NuGet\\NuGet.Config",
