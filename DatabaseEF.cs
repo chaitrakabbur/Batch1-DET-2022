@@ -171,7 +171,7 @@ namespace Batch1_DET_2022
             SqlDbType = System.Data.SqlDbType.VarChar,
             Size = 100,
             Direction = System.Data.ParameterDirection.Input,
-            Value = "riya",
+            Value = "Neha",
             }
             //new SqlParameter()
             //{
