@@ -21,7 +21,6 @@ namespace Batch1_DET_2022
             try
             {
                 Console.WriteLine("enter a number");
-                Console.WriteLine("enter a number");
                 x = int.Parse(Console.ReadLine());
                 if (x > 100000)
                     throw new InvalidDataException("Number is not in range");
