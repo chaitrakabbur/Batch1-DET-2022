@@ -21,7 +21,7 @@ namespace Batch1_DET_2022
 
     public class TestBook
     {
-        public static void Main()
+        public static void Main12()
         {
             Book b = new Book
             {

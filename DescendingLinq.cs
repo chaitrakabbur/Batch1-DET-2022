@@ -8,7 +8,7 @@ namespace Batch1_DET_2022
 {
     internal class DescendingLinq
     {
-        public static void Main()
+        public static void Main14()
         {
 
             {

@@ -8,7 +8,7 @@ namespace Batch1_DET_2022
 {
     internal class linq
     {
-        private static void Main()
+        private static void Main17()
         {
             //the three parts os a LINQ Query:deffered execution
             //1. data source

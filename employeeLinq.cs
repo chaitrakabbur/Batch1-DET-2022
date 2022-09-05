@@ -52,7 +52,7 @@ namespace Batch1_DET_2022
             }
 
 
-            public static void Main()
+            public static void Main16()
             {
                 SampleemployeeLinq();
             }

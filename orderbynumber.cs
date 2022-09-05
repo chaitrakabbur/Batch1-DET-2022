@@ -11,7 +11,7 @@ namespace Batch1_DET_2022
     {
 
 
-        private static void Main()
+        private static void Main18()
         {
             {
                 int[] numbers = { 2,4,7,1,8,4,3,0,6,9 };

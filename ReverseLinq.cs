@@ -9,7 +9,7 @@ namespace Batch1_DET_2022
 {
     internal class ReverseLinq
     {
-        public static void Main()
+        public static void Main21()
         {
             char[] characters = { 'h', 'a', 'r', 's', 'h', 'i','t','h','a' };
 

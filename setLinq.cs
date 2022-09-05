@@ -9,7 +9,7 @@ namespace Batch1_DET_2022
 {
     internal class setLinq
     {
-        public static void Main()
+        public static void Main22()
         {
             Except();
         }

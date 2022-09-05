@@ -9,7 +9,7 @@ namespace Batch1_DET_2022
 {
     internal class AggregateLinq
     {
-        public static void Main()
+        public static void Main11()
         {
             sum();
         }

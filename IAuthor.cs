@@ -43,7 +43,7 @@ namespace Batch1_DET_2022
     }
     class TestAuthor
     {
-        public static void Main()
+        public static void Main17()
         {
             Author a = new Author { Name = "Chaitra", Email = "ck@s.com", Gender = 'F' };
             SITLAuthor sa = new SITLAuthor { Name = "ABC", Email = "abc@s.com", Gender = 'F' };

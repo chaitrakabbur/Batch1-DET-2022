@@ -9,7 +9,7 @@ namespace Batch1_DET_2022
 {
     internal class takeLinq
     {
-        public static void Main()
+        public static void Main25()
         {
             int[] numbers = {5,2,4,3,7,8,9,10,2,32,12,56,8,9,45,34,};
 

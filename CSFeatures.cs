@@ -8,7 +8,7 @@ namespace Batch1_DET_2022
 {
     internal class CSFeatures
     {
-        public static void Main()
+        public static void Main13()
         {
             Action<string> action = (string name) => { Console.WriteLine($"Hi {name}"); };
             //action.Invoke("Chaitra");

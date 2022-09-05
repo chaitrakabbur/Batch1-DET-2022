@@ -9,7 +9,7 @@ namespace Batch1_DET_2022
 {
     internal class skipwhile
     {
-        public static void Main()
+        public static void Main24()
         {
             string[] words = { "one", "two", "three", "four", "five", "six" };
 
