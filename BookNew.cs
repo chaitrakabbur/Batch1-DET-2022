@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Batch1_DET_2022
 {
-    internal class Book
+    internal class BooksNew
     {
         public string Name { get; set; }
         public int Price { get; set; }
@@ -23,7 +23,7 @@ namespace Batch1_DET_2022
     {
         public static void Main12()
         {
-            Book b = new Book
+            BooksNew b = new BooksNew
             {
                 Name = "Mastering C#",
                 author = new Author { Name = "Mary", Email = "mary.s", Gender = 'f' },
@@ -32,7 +32,7 @@ namespace Batch1_DET_2022
             };
 
             Author alex = new Author { Name = "Roja", Email = "roja.p", Gender = 'f' };
-            Book dummyBook = new Book { Name = "C#", author = alex, Price = 19, Qty = 99 };
+            BooksNew dummyBook = new BooksNew { Name = "C#", author = alex, Price = 19, Qty = 99 };
         }
     }
 }
