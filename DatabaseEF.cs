@@ -11,7 +11,7 @@ namespace Batch1_DET_2022
 {
     internal class DatabaseEF
     {
-        static void Main()
+        static void Main28()
         {
             //GetAllEmpDetails();
             //GetEmpDetailByID();
